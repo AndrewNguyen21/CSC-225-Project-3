@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap');
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.hover-invert:not(.active):hover {
+    color: white;
+    background: black;
+}
+
+img {
+    width: 18rem;
+    height: 21rem;
+}
+
+body{
+    background-image: url("https://centralaz.edu/wp-content/uploads/2020/03/GettyImages-1062252770-book.jpg");
+    background-size: cover;
+}
+
+.list-bg-color{
+    background-color: #ecd9c6;
+}
+
+.list-item-font{
+    font-family: 'Oxygen', sans-serif;
+}
+
+.info-card-bg-color{
+    color: black;
+    background: #ecd9c6;
+}
